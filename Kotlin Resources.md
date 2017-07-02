@@ -21,13 +21,22 @@ https://www.hackerrank.com/
 
 ## Books
 
-### Kotlin in Action  
+**Kotlin in Action**  
 _Dmitry Jemerov, Svetlana Isakova_  
 A thorough dive into Kotlin, written by the folks at JetBrains  
 [Manning books link](https://www.manning.com/books/kotlin-in-action)  
 [Amazon link](https://www.amazon.co.uk/Kotlin-Action-Dmitry-Jemerov/dp/1617293296)
 
-### Programming Kotlin  
+**Programming Kotlin**  
 _Stephen Samuel, Stefan Bocutiu_  
 [Packt books link](https://www.packtpub.com/application-development/programming-kotlin)  
 [Amazon link](https://www.amazon.co.uk/d/Books/Programming-Kotlin-Stephen-Samuel/1787126366/)
+
+**Android Development with Kotlin**  
+_Marcin Moskala, Igor Wojda_  
+[Packt books link](https://www.packtpub.com/application-development/android-development-kotlin)
+[Amazon link](https://www.amazon.co.uk/Android-Development-Kotlin-Marcin-Moskala-ebook/dp/B01M24JMRD/)
+
+**Kotlin for Android Developers: Learn Kotlin the easy way while developing an Android App**  
+_Antonio Leiva_  
+[Amazon link](https://www.amazon.co.uk/Kotlin-Android-Developers-Learn-developing/dp/1530075610/)

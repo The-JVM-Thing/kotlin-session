@@ -34,7 +34,7 @@ _Stephen Samuel, Stefan Bocutiu_
 
 **Android Development with Kotlin**  
 _Marcin Moskala, Igor Wojda_  
-[Packt books link](https://www.packtpub.com/application-development/android-development-kotlin)
+[Packt books link](https://www.packtpub.com/application-development/android-development-kotlin)  
 [Amazon link](https://www.amazon.co.uk/Android-Development-Kotlin-Marcin-Moskala-ebook/dp/B01M24JMRD/)
 
 **Kotlin for Android Developers: Learn Kotlin the easy way while developing an Android App**  

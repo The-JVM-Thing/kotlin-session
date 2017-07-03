@@ -40,3 +40,9 @@ _Marcin Moskala, Igor Wojda_
 **Kotlin for Android Developers: Learn Kotlin the easy way while developing an Android App**  
 _Antonio Leiva_  
 [Amazon link](https://www.amazon.co.uk/Kotlin-Android-Developers-Learn-developing/dp/1530075610/)
+
+## Podcasts
+
+**Talking Kotlin**  
+Great podcast, hosted by Hadi Hariri with various guests.  
+http://talkingkotlin.com
